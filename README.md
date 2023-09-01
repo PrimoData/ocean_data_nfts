@@ -15,3 +15,7 @@ Quickly create [OCEAN](https://oceanprotocol.com/) Data NFTs by querying blockch
     * `WEB3_INFURA_PROJECT_ID` (Note: Must have an Infrura account w/ RPC endpoints.)
     * `PRIVATE_KEY` (For a wallet)
 4. Run `Create_OCEAN_Data_NFT.ipynb`
+
+## Video Tutorial
+[![Create OCEAN Data NFTs YouTube Video](https://img.youtube.com/vi/ob2k8EPn-_Y/0.jpg)](https://www.youtube.com/watch?v=ob2k8EPn-_Y)
+
